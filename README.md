@@ -10,5 +10,6 @@ The model we propose utilizes the feature perceptual loss to produce the sparse 
 ### CVAE Convolutional First Layer
 This notebook contains the code for the actual VAE model. We load the prettrained CNN model and use it to calculate the loss along with the Bernoulli and KL divergence loss. More detail on the model is found in the notebook.
 
+### VAE Jet Analysis
 
-
+This is where all the data analysis is found. The results include some visual and quantative assessments of the VAE jets. A large portion of the analysis explores the latent space, where unique distributions can be generated from there. We also analyze the [LAGAN](https://github.com/hep-lbdl/adversarial-jets) in the analysis as well to compare it to our model. 
