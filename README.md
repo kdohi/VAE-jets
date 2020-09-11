@@ -1,6 +1,6 @@
 # VAE-jets
 
-This repository contains all the code to the [Variational Autoencoders for Jet Simulation](https://arxiv.org/abs/2009.04842) paper. The paper demonstrates the use of variational autoencoders (VAE) as powerful tools for jet simulation. With the growing popularity and success of generative adversarial networks (GAN) in high energy physics, we explore variational autoencoders for calorimeter simulation and compare it to the Location-Aware Generative Adversarial Network (LAGAN), a preexisting generative adversarial netwprk used for jet simulation.
+This repository contains all the code to the [Variational Autoencoders for Jet Simulation](https://arxiv.org/abs/2009.04842) paper. The paper demonstrates the use of variational autoencoders (VAE) as powerful tools for jet simulation. With the growing popularity and success of generative adversarial networks (GAN) in high energy physics, we explore variational autoencoders for calorimeter simulation and compare it to the Location-Aware Generative Adversarial Network (LAGAN), a preexisting generative adversarial network used for jet simulation.
 
 ## Notebooks
 
